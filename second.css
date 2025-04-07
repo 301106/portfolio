@@ -1,0 +1,21 @@
+body {
+display: flex;
+justify-content: center;
+align-items: center;
+height:100vh;
+background-color:#f4f4f4;
+margin:0;
+}
+div{
+width: 250px;
+padding: 20px;
+background-color: rgb(224, 215, 93);
+border-radius: 10px;
+border:10px dashed #a62323;
+text-align: center;
+}
+h3 {
+margin: 10px 0;
+font-family: Arial, sans-serif;
+color: #333;
+}
